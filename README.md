@@ -3,7 +3,7 @@
 
 📫 How to reach me:
 - Email: admin@allancoding.ga
-- Website: allancoding.ga
+- Website: [allancoding.ga](allancoding.ga)
 
 🌱 I’m currently learning:
 - JAVASCRIPT
