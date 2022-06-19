@@ -10,6 +10,7 @@
 - CSS
 - HTML
 - PHP
+- Bash
 - JAVA
 - C#
 - Python
