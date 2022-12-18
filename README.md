@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://stackexchange.com/users/18796553"><img src="https://stackexchange.com/users/flair/18796553.png" width="208" height="58" alt="profile for allancoding on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for allancoding on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+<a href="https://stackexchange.com/users/18796553"><img src="https://stackexchange.com/users/flair/18796553.png?theme=dark" width="208" height="58" alt="profile for Allancoding on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Allancoding on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=allancoding&theme=juicyfresh&no-frame=true&margin-w=15&margin-h=15&column=-1)
