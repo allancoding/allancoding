@@ -1,17 +1,17 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2ABB12&vCenter=true&width=435&lines=Hi+am+Allan;I+like+to+code%3A;javascript;html;css+(not+very+fun);chatGPT+is+cool;I+sometimes+break+things)
 
 ### Hi there 👋
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=allancoding&count_private=true&border_radius=8&theme=tokyonight&include_all_commits=true">
+![](https://github-readme-stats.vercel.app/api?username=allancoding&count_private=true&border_radius=8&theme=tokyonight&include_all_commits=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allancoding&langs_count=10&layout=compact&theme=tokyonight)
 
 ![](https://komarev.com/ghpvc/?username=allancoding&color=2ABB12)
-  <img alt="" src="https://img.shields.io/badge/Discord-Allan%20The%20Coder!%238959-red/?logo=discord&color=7289DA">
-  <img alt="" src="https://img.shields.io/badge/Editor-VS%20Code-blue/?logo=visualstudiocode&logoColor=blue&color=blue">
-  <img src="https://img.shields.io/badge/Knows-JavaScript-blue/?logo=javascript&logoColor=warning&color=yellow" alt="js">
-  <img src="https://img.shields.io/badge/Knows-HTML-blue/?logo=html5&logoColor=warning&color=orange" alt="html">
-  <img src="https://img.shields.io/badge/Knows-MarkDown-FFF?logo=markdown" alt="markdown">
-  <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/3kh0?label=Sponsors&logo=githubsponsors&style=flat">
+![](https://img.shields.io/badge/Discord-Allan%20The%20Coder!%238959-red/?logo=discord&color=7289DA)
+![](https://img.shields.io/badge/Editor-VS%20Code-blue/?logo=visualstudiocode&logoColor=blue&color=blue)
+![](https://img.shields.io/badge/Knows-JavaScript-blue/?logo=javascript&logoColor=warning&color=yellow)
+![](https://img.shields.io/badge/Knows-HTML-blue/?logo=html5&logoColor=warning&color=orange)
+![](https://img.shields.io/badge/Knows-MarkDown-FFF?logo=markdown)
+![](https://img.shields.io/github/sponsors/3kh0?label=Sponsors&logo=githubsponsors&style=flat)
 
 📫 How to reach me:
 - Email: admin@allancoding.ga
