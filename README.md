@@ -1,5 +1,9 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2ABB12&vCenter=true&width=435&lines=Hi+am+Allan;I+like+to+code%3A;javascript;html;css+(not+very+fun);chatGPT+is+cool;I+sometimes+break+things)
+
 ### Hi there 👋
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=allancoding&count_private=true&border_radius=8&theme=tokyonight&include_all_commits=true">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allancoding&langs_count=10&layout=compact&theme=tokyonight)
 
 📫 How to reach me:
 - Email: admin@allancoding.ga
@@ -43,6 +47,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=allancoding&theme=tokyonight" alt="allancoding" /></p><br>
 
 <a href="https://stackexchange.com/users/18796553"><img src="https://stackexchange.com/users/flair/18796553.png?theme=dark" width="208" height="58" alt="profile for Allancoding on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Allancoding on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
