@@ -5,6 +5,14 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allancoding&langs_count=10&layout=compact&theme=tokyonight)
 
+![](https://komarev.com/ghpvc/?username=allancoding&color=2ABB12)
+  <img alt="" src="https://img.shields.io/badge/Discord-Allan%20The%20Coder!%238959-red/?logo=discord&color=7289DA">
+  <img alt="" src="https://img.shields.io/badge/Editor-VS%20Code-blue/?logo=visualstudiocode&logoColor=blue&color=blue">
+  <img src="https://img.shields.io/badge/Knows-JavaScript-blue/?logo=javascript&logoColor=warning&color=yellow" alt="js">
+  <img src="https://img.shields.io/badge/Knows-HTML-blue/?logo=html5&logoColor=warning&color=orange" alt="html">
+  <img src="https://img.shields.io/badge/Knows-MarkDown-FFF?logo=markdown" alt="markdown">
+  <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/3kh0?label=Sponsors&logo=githubsponsors&style=flat">
+
 📫 How to reach me:
 - Email: admin@allancoding.ga
 - Website: [allancoding.ga](allancoding.ga)
@@ -30,7 +38,6 @@
 - I learned to to code at 10.
 - This is my first website: http://live.codechangers.com/aniles/
 
-
 ![github contribution grid snake animation](https://raw.githubusercontent.com/allancoding/allancoding/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/allancoding/allancoding/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <!--
@@ -54,3 +61,5 @@ Here are some ideas to get you started:
 
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=allancoding&theme=juicyfresh&no-frame=true&margin-w=15&margin-h=15&column=-1)
+
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=random)
