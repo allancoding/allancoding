@@ -3,7 +3,7 @@
 ### Hi there 👋
 ![](https://github-readme-stats.vercel.app/api?username=allancoding&count_private=true&border_radius=8&theme=tokyonight&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allancoding&langs_count=10&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allancoding&langs_count=20&layout=compact&theme=tokyonight)
 
 ![](https://komarev.com/ghpvc/?username=allancoding&color=2ABB12)
 ![](https://img.shields.io/badge/Discord-Allan%20The%20Coder!%238959-red/?logo=discord&color=7289DA)
