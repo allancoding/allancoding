@@ -11,7 +11,7 @@
 ![](https://img.shields.io/badge/Knows-JavaScript-blue/?logo=javascript&logoColor=warning&color=yellow)
 ![](https://img.shields.io/badge/Knows-HTML-blue/?logo=html5&logoColor=warning&color=orange)
 ![](https://img.shields.io/badge/Knows-MarkDown-FFF?logo=markdown)
-![](https://img.shields.io/github/sponsors/3kh0?label=Sponsors&logo=githubsponsors&style=flat)
+![](https://img.shields.io/github/sponsors/allancoding?label=Sponsors&logo=githubsponsors&style=flat)
 
 📫 How to reach me:
 - Email: admin@allancoding.ga
