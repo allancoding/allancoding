@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2ABB12&vCenter=true&width=435&lines=Hi+am+Allan;I+like+to+code%3A;javascript;html;css+(not+very+fun);chatGPT+is+cool;I+sometimes+break+things)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=500&color=2ABB12&vCenter=true&width=435&lines=Hi+am+Allan;I+like+to+code%3A;javascript;html;css+-+It+can+be+really+hard+to+like;chatGPT+is+super+cool!;I+sometimes+break+things;sometimes+I+wonder+why+I+like+coding;Thanks+for+watching!;_;_)
 
 ### Hi there 👋
 ![](https://github-readme-stats.vercel.app/api?username=allancoding&count_private=true&border_radius=8&theme=tokyonight&include_all_commits=true)
@@ -32,7 +32,8 @@
 #### I Am A Full Stack Developer!
 
 🔭 I’m currently working on:
-- [Emulatorjs](https://github.com/ethanaobrien/emulatorjs)
+- [Emulatorjs](https://github.com/EmulatorJS/EmulatorJS)
+- [PrismOS](https://github.com/PrismNet)
 
 ⚡ Fun fact:
 - I learned to to code at 10.
