@@ -58,12 +58,10 @@ Here are some ideas to get you started:
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=allancoding&theme=tokyonight" alt="allancoding" /></p><br>
 
+![trophy](https://github-profile-trophy.vercel.app/?username=allancoding&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=-1)
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=893621402496806975)
 
 <a href="https://stackexchange.com/users/18796553"><img src="https://stackexchange.com/users/flair/18796553.png?theme=dark" width="208" height="58" alt="profile for Allancoding on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Allancoding on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
-
-
-![trophy](https://github-profile-trophy.vercel.app/?username=allancoding&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=-1)
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
