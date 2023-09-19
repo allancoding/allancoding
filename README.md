@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=500&color=2ABB12&vCenter=true&width=435&lines=Hi+am+Allan;I+like+to+code%3A;EmulatorJS+is+the+best+emulator!;chatGPT+is+super+cool!;I+sometimes+break+things;sometimes+I+wonder+why+I+like+coding;Thanks+for+watching!;_;_)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=500&color=2ABB12&vCenter=true&width=435&lines=Hi+I+am+Allan;I+like+to+code%3A;EmulatorJS+is+the+best+emulator!;chatGPT+is+super+cool!;I+sometimes+break+things;sometimes+I+wonder+why+I+like+coding;Thanks+for+watching!;_;_)
 
 ### Hi there 👋
 ![](https://github-readme-stats.vercel.app/api?username=allancoding&count_private=true&border_radius=8&theme=tokyonight&include_all_commits=true)
