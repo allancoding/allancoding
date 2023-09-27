@@ -17,8 +17,8 @@
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=893621402496806975)
 
 📫 How to reach me:
-- Email: admin@allancoding.ga
-- Website: [allancoding.ga](allancoding.ga)
+- Email: allancoding.dev@gmail.com
+- Website: [allancoding.github.io](https://allancoding.github.io)
 
 🌱 I’m currently learning:
 - JAVASCRIPT
@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=allancoding&theme=tokyonight" alt="allancoding" /></p><br>
+![Allancoding Stats](https://streak-stats.demolab.com/?user=allancoding&theme=tokyonight)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=allancoding&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=-1)
 
