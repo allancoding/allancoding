@@ -1,9 +1,9 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=500&color=2ABB12&vCenter=true&width=435&lines=Hi+I+am+Allan;I+like+to+code%3A;EmulatorJS+is+the+best+emulator!;chatGPT+is+super+cool!;I+sometimes+break+things;sometimes+I+wonder+why+I+like+coding;Thanks+for+watching!;_;_)
+![Typing SVG](http://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=500&color=2ABB12&vCenter=true&width=435&lines=Hi+I+am+Allan;I+like+to+code%3A;EmulatorJS+is+the+best+emulator!;chatGPT+is+super+cool!;I+sometimes+break+things;sometimes+I+wonder+why+I+like+coding;Thanks+for+watching!;_;_)
 
 ### Hi there 👋
-![](https://github-readme-stats.vercel.app/api?username=allancoding&count_private=true&border_radius=8&theme=tokyonight&include_all_commits=true)
+![](http://github-readme-stats.vercel.app/api?username=allancoding&count_private=true&border_radius=8&theme=tokyonight&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allancoding&langs_count=20&layout=compact&theme=tokyonight)
+![Top Langs](http://github-readme-stats.vercel.app/api/top-langs/?username=allancoding&langs_count=20&layout=compact&theme=tokyonight)
 
 ![](https://komarev.com/ghpvc/?username=allancoding&color=2ABB12)
 ![](https://img.shields.io/badge/Discord-Allan%20The%20Coder!%238959-red/?logo=discord&color=7289DA)
@@ -14,7 +14,7 @@
 ![](https://img.shields.io/github/sponsors/allancoding?label=Sponsors&logo=githubsponsors&style=flat)
 
 
-![My Discord](https://discord-readme-badge.vercel.app/api?id=893621402496806975)
+![My Discord](http://discord-readme-badge.vercel.app/api?id=893621402496806975)
 
 📫 How to reach me:
 - Email: allancoding.dev@gmail.com
@@ -42,7 +42,7 @@
 - I learned to to code at 10.
 - This is my first website: http://live.codechangers.com/aniles/
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/allancoding/allancoding/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/allancoding/allancoding/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github contribution grid snake animation](http://raw.githubusercontent.com/allancoding/allancoding/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](http://raw.githubusercontent.com/allancoding/allancoding/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <!--
 **allancoding/allancoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -59,10 +59,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Allancoding Stats](https://streak-stats.demolab.com/?user=allancoding&theme=tokyonight)
+![Allancoding Stats](http://streak-stats.demolab.com/?user=allancoding&theme=tokyonight)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=allancoding&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=-1)
+![trophy](http://github-profile-trophy.vercel.app/?username=allancoding&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=-1)
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+![Jokes Card](http://readme-jokes.vercel.app/api?theme=tokyonight)
 
 <a href="https://stackexchange.com/users/18796553"><img src="https://stackexchange.com/users/flair/18796553.png?theme=dark" width="208" height="58" alt="profile for Allancoding on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Allancoding on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
