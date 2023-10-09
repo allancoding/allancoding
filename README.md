@@ -9,6 +9,8 @@
 ![](https://img.shields.io/badge/Knows-MarkDown-FFF?logo=markdown)
 ![](https://img.shields.io/github/sponsors/allancoding?label=Sponsors&logo=githubsponsors&style=flat)
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/allancoding/allancoding/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/allancoding/allancoding/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 📫 How to reach me:
 - Email: allancoding.dev@gmail.com
 - Website: [allancoding.github.io](https://allancoding.github.io)
@@ -31,7 +33,6 @@
 ⚡ Fun fact:
 - I learned to to code at 10.
 - This is my first website: http://live.codechangers.com/aniles/
-![github contribution grid snake animation](https://raw.githubusercontent.com/allancoding/allancoding/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/allancoding/allancoding/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <!--
 **allancoding/allancoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
