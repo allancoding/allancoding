@@ -1,12 +1,13 @@
 ### Hi there 👋
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=500&color=2ABB12&vCenter=true&width=435&lines=Hi+I+am+Allan;I+like+to+code%3A;EmulatorJS+is+the+best+emulator!;chatGPT+is+super+cool!;I+sometimes+break+things;sometimes+I+wonder+why+I+like+coding;Thanks+for+watching!;_;_)
 
-![](https://komarev.com/ghpvc/?username=allancoding&color=2ABB12)
-![](https://img.shields.io/badge/Discord-Allan%20The%20Coder!%238959-red/?logo=discord&color=7289DA)
-![](https://img.shields.io/badge/Editor-VS%20Code-blue/?logo=visualstudiocode&logoColor=blue&color=blue)
-![](https://img.shields.io/badge/Knows-JavaScript-blue/?logo=javascript&logoColor=warning&color=yellow)
-![](https://img.shields.io/badge/Knows-HTML-blue/?logo=html5&logoColor=warning&color=orange)
-![](https://img.shields.io/badge/Knows-MarkDown-FFF?logo=markdown)
+![](https://komarev.com/ghpvc/?username=allancoding&color=brightgreen)
+![](https://img.shields.io/badge/Discord-allancoding-brightgreen/?logo=discord&color=7289DA)
+![](https://img.shields.io/badge/Editor-VS%20Code-brightgreen/?logo=visualstudiocode&logoColor=blue&color=blue)
+![](https://img.shields.io/badge/Knows-JavaScript-brightgreen/?logo=javascript&logoColor=warning&color=yellow)
+![](https://img.shields.io/badge/Knows-HTML-brightgreen/?logo=html5&logoColor=warning&color=orange)
+![](https://img.shields.io/badge/Knows-JAVA-brightgreen/?logo=java&logoColor=red&color=red)
+![](https://img.shields.io/badge/Knows-MarkDown-brightgreen?logo=markdown&color=fff)
 ![](https://img.shields.io/github/sponsors/allancoding?label=Sponsors&logo=githubsponsors&style=flat)
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/allancoding/allancoding/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/allancoding/allancoding/output/github-contribution-grid-snake.svg#gh-light-mode-only)
@@ -16,6 +17,7 @@
 - Website: [allancoding.github.io](https://allancoding.github.io)
 
 🌱 I’m currently learning:
+- Rust
 - JAVASCRIPT
 - CSS
 - HTML
@@ -62,3 +64,4 @@ Here are some ideas to get you started:
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
 <a href="https://stackexchange.com/users/18796553"><img src="https://stackexchange.com/users/flair/18796553.png?theme=dark" width="208" height="58" alt="profile for Allancoding on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Allancoding on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+![](https://hit.yhype.me/github/profile?user_id=74841470)
