@@ -57,9 +57,9 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats-allancoding.vercel.app/api/top-langs/?username=allancoding&langs_count=20&layout=compact&theme=tokyonight&disable_animations=true)
 
-![Allancoding Stats](https://streak-stats.demolab.com/?user=allancoding&theme=tokyonight&type=png)
+![Allancoding Stats](https://allancoding-github-readme-streak-stats.vercel.app/?user=allancoding&theme=tokyonight)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=allancoding&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=-1)
+![trophy](https://github-profile-trophy.vercel.app/?username=allancoding&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=8)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
