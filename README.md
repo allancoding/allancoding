@@ -3,10 +3,10 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=allancoding&color=brightgreen&style=for-the-badge)](https://github.com/allancoding)
 [![Discord](https://img.shields.io/badge/Discord-allancoding-7289DA?logo=discord&color=7289DA&style=for-the-badge)](https://discord.com/users/allancoding)
-[![VS Code](https://img.shields.io/badge/Editor-VS%20Code-blue?logo=visualstudiocode&color=blue&style=for-the-badge)](https://code.visualstudio.com/)
+[![VS Code](https://img.shields.io/badge/Editor-VS%20Code-blue?logoColor=blue&logo=visualstudiocode&color=blue&style=for-the-badge)](https://code.visualstudio.com/)
 [![JavaScript](https://img.shields.io/badge/Knows-JavaScript-yellow?logo=javascript&color=yellow&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![HTML](https://img.shields.io/badge/Knows-HTML-orange?logo=html5&color=orange&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![JAVA](https://img.shields.io/badge/Knows-JAVA-red?logo=openjdk&color=red&style=for-the-badge)](https://www.oracle.com/java/)
+[![HTML](https://img.shields.io/badge/Knows-Html-orange?logo=html5&color=orange&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![JAVA](https://img.shields.io/badge/Knows-Java-fff?logo=openjdk&logoColor=fff&color=ED8B00&style=for-the-badge)](https://www.oracle.com/java/)
 [![Markdown](https://img.shields.io/badge/Knows-MarkDown-fff?logo=markdown&color=fff&style=for-the-badge)](https://www.markdownguide.org/)
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/allancoding?label=Sponsors&logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/allancoding)
 
