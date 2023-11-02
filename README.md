@@ -1,14 +1,14 @@
 ### Hi there 👋
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=500&color=2ABB12&vCenter=true&width=435&lines=Hi+I+am+Allan;I+like+to+code%3A;EmulatorJS+is+the+best+emulator!;chatGPT+is+super+cool!;I+sometimes+break+things;sometimes+I+wonder+why+I+like+coding;Thanks+for+watching!;_;_)
 
-![](https://komarev.com/ghpvc/?username=allancoding&color=brightgreen)
-![](https://img.shields.io/badge/Discord-allancoding-brightgreen/?logo=discord&color=7289DA)
-![](https://img.shields.io/badge/Editor-VS%20Code-brightgreen/?logo=visualstudiocode&logoColor=blue&color=blue)
-![](https://img.shields.io/badge/Knows-JavaScript-brightgreen/?logo=javascript&logoColor=warning&color=yellow)
-![](https://img.shields.io/badge/Knows-HTML-brightgreen/?logo=html5&logoColor=warning&color=orange)
-![](https://img.shields.io/badge/Knows-JAVA-brightgreen/?logo=java&logoColor=red&color=red)
-![](https://img.shields.io/badge/Knows-MarkDown-brightgreen?logo=markdown&color=fff)
-![](https://img.shields.io/github/sponsors/allancoding?label=Sponsors&logo=githubsponsors&style=flat)
+[![Profile Views](https://komarev.com/ghpvc/?username=allancoding&color=brightgreen&style=for-the-badge)](https://github.com/allancoding)
+[![Discord](https://img.shields.io/badge/Discord-allancoding-7289DA?logo=discord&color=7289DA&style=for-the-badge)](https://discord.com/users/allancoding)
+[![VS Code](https://img.shields.io/badge/Editor-VS%20Code-blue?logo=visualstudiocode&color=blue&style=for-the-badge)](https://code.visualstudio.com/)
+[![JavaScript](https://img.shields.io/badge/Knows-JavaScript-yellow?logo=javascript&color=yellow&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML](https://img.shields.io/badge/Knows-HTML-orange?logo=html5&color=orange&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![JAVA](https://img.shields.io/badge/Knows-JAVA-red?logo=openjdk&color=red&style=for-the-badge)](https://www.oracle.com/java/)
+[![Markdown](https://img.shields.io/badge/Knows-MarkDown-fff?logo=markdown&color=fff&style=for-the-badge)](https://www.markdownguide.org/)
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/allancoding?label=Sponsors&logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/allancoding)
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/allancoding/allancoding/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/allancoding/allancoding/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
@@ -17,19 +17,17 @@
 - Website: [allancoding.github.io](https://allancoding.github.io)
 
 🌱 I’m currently learning:
-- Rust
-- JAVASCRIPT
-- CSS
-- HTML
+- RUST
 - PHP
-- Bash
 - JAVA
-- Python
+- PYTHON
+- GO
 
 #### I Am A Full Stack Developer!
 
 🔭 I’m currently working on:
 - [EmulatorJS](https://github.com/EmulatorJS/EmulatorJS)
+- [flashplayer](https://github.com/allancoding/flashplayer)
 - [PrismOS](https://github.com/PrismNet)
 
 ⚡ Fun fact:
