@@ -14,7 +14,7 @@
 
 📫 How to reach me:
 - Email: allancoding.dev@gmail.com
-- Website: [allancoding.github.io](https://allancoding.github.io)
+- Website: [allancoding.dev](https://allancoding.dev)
 
 🌱 I’m currently learning:
 - RUST
