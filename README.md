@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=500&color=2ABB12&vCenter=true&width=435&lines=Hi+I+am+Allan;I+like+to+code%3A;EmulatorJS+is+the+best+emulator!;chatGPT+is+super+cool!;I+sometimes+break+things;sometimes+I+wonder+why+I+like+coding;Thanks+for+watching!;_;_)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=500&color=2ABB12&vCenter=true&width=435&lines=Hi+I+am+Allan;I+like+to+code%3A;EmulatorJS+is+the+best+emulator!;I+sometimes+break+things;sometimes+I+wonder+why+I+like+coding;Thanks+for+watching!;_;_)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=allancoding&color=brightgreen&style=for-the-badge)](https://github.com/allancoding)
 [![Discord](https://img.shields.io/badge/Discord-allancoding-7289DA?logo=discord&color=7289DA&style=for-the-badge)](https://discord.com/users/allancoding)
@@ -32,7 +32,7 @@
 
 ⚡ Fun fact:
 - I learned to to code at 10.
-- This is my first website: http://live.codechangers.com/aniles/
+- This is my first website: [http://live.codechangers.com/aniles/](https://web.archive.org/web/20240129170617/http://live.codechangers.com/aniles/)
 
 <!--
 **allancoding/allancoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
