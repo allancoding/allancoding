@@ -51,13 +51,13 @@ Here are some ideas to get you started:
 
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=893621402496806975)
 
-![](https://github-readme-stats-allancoding.vercel.app/api?username=allancoding&count_private=true&border_radius=8&theme=tokyonight&include_all_commits=true&disable_animations=true)
+![Github Stats](https://github-readme-stats-allancoding.vercel.app/api?username=allancoding&count_private=true&border_radius=8&theme=tokyonight&include_all_commits=true&disable_animations=true)
 
 ![Top Langs](https://github-readme-stats-allancoding.vercel.app/api/top-langs/?username=allancoding&langs_count=20&layout=compact&theme=tokyonight&disable_animations=true)
 
-![Allancoding Stats](https://allancoding-github-readme-streak-stats.vercel.app/?user=allancoding&theme=tokyonight)
+![Allancoding Stats](https://allancoding-github-readme-streak-stats.vercel.app/?user=allancoding&theme=tokyonight&disable_animations=true)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=allancoding&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=8)
+![trophy](https://github-profile-trophy.vercel.app/?username=allancoding&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=8&disable_animations=true)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
