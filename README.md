@@ -49,6 +49,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### My Certificates:
+
+<img src="certs/microsoft-office-specialist-word-associate-office-2019.png" alt="word" width="125px">
+<img src="certs/microsoft-office-specialist-excel-associate-office-2019.png" alt="excel" width="125px">
+
+### Stats:
+
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=893621402496806975)
 
 ![Github Stats](https://github-readme-stats-allancoding.vercel.app/api?username=allancoding&count_private=true&border_radius=8&theme=tokyonight&include_all_commits=true&disable_animations=true)
