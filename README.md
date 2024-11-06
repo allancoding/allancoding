@@ -51,8 +51,7 @@ Here are some ideas to get you started:
 
 ### My Certificates:
 
-<img src="certs/microsoft-office-specialist-word-associate-office-2019.png" alt="word" width="125px">
-<img src="certs/microsoft-office-specialist-excel-associate-office-2019.png" alt="excel" width="125px">
+<img src="certs/microsoft-office-specialist-word-associate-office-2019.png" alt="word" width="125px"> <img src="certs/microsoft-office-specialist-excel-associate-office-2019.png" alt="excel" width="125px">
 
 ### Stats:
 
