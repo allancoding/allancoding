@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 
 ![Allancoding Stats](https://allancoding-github-readme-streak-stats.vercel.app/?user=allancoding&theme=tokyonight&disable_animations=true)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=allancoding&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=8&disable_animations=true)
+![trophy](https://github-profile-trophy-allancoding.vercel.app/?username=allancoding&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=8&disable_animations=true)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
